@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 6,
+        "image": "https://bizimmarket.gr/wp-content/uploads/2021/02/Coca-Cola-1.5Lt.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image": "https://stn-reebok.mncdn.com/mnresize/800/800/Content/media/ProductImg/original/h03317-cardi-club-c-ayakkabi-637907316977950122.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Laptop",
+        "price": 4000,
+        "image": "http://sc04.alicdn.com/kf/H6e9d0ee2e0f545e1aa453e240f22cfb7o.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Araba",
+        "price": 40000,
+        "image": "https://www.log.com.tr/wp-content/uploads/2020/06/dunyanin-en-pahali-model-araba-modelleri-galeri-2-21.jpg"
+    }
+]
